@@ -1,7 +1,6 @@
 package com.arun.camel;
 
 import org.apache.camel.builder.RouteBuilder;
-import org.apache.camel.component.file.FileComponent;
 import org.apache.camel.impl.DefaultCamelContext;
 
 public class CamelMain {
