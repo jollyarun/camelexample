@@ -23,6 +23,7 @@ public class CamelMain {
 		camelContext.start();
 		System.out
 				.println("Context started...Start Putting your files...Quick quick");
+		System.out.println("Im going to add this here to see how i can compare it against git");
 		Thread.sleep(60000);
 		System.out.println("Context stopped");
 
